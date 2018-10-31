@@ -1,0 +1,13 @@
+[General]
+Name=Basic
+Comment=Basic Java class template
+Category=Java/Basic
+Language=Java
+Type=Test
+Files=Procedure
+
+[Procedure]
+Name=Class
+Name[en_GB]=class
+File=class.java
+OutputFile={{ name }}.java

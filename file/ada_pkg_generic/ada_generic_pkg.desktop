@@ -1,0 +1,17 @@
+[General]
+Name=Generic package
+Comment=Generic Ada package template
+Category=Ada/Packages
+Language=Ada
+Type=Class
+Files=Spec,Body
+
+[Spec]
+Name=Specification
+File=genpkg.ads
+OutputFile={{ name }}.ads
+
+[Body]
+Name=Body
+File=genpkg.adb
+OutputFile={{ name }}.adb

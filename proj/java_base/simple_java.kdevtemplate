@@ -1,0 +1,7 @@
+# KDE Config File
+[General]
+Name=Simple Java application
+Category=Java/No GUI
+Comment=Basic Java project structure
+Icon=default-kdevelop
+ShowFilesAfterGeneration=%{PROJECTDIR}/src/%{APPNAME}.java

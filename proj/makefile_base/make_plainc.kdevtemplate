@@ -1,0 +1,33 @@
+# KDE Config File
+[General]
+Name=Simple Make-based C application
+Name[ca]=Senzilla aplicació C basada en Make
+Name[ca@valencia]=Senzilla aplicació C basada en Make
+Name[cs]=Jednoduchá aplikace C založená na Make
+Name[da]=Simpel Make-baseret C-applikation
+Name[de]=Einfache auf Make basierende C-Anwendung
+Name[en_GB]=Simple Make-based C application
+Name[es]=Aplicación C sencilla basada en Make
+Name[et]=Lihtne Make'i põhine C rakendus
+Name[fi]=Yksinkertainen Make-perustainen C-sovellus
+Name[fr]=Application C simple utilisant Make
+Name[ga]=Feidhmchlár simplí C bunaithe ar Make
+Name[gl]=Programa básico en C baseado en Make
+Name[it]=Semplice applicazione in C basata su Make
+Name[nb]=Enkelt C-program basert på Make
+Name[nds]=Eenfach op Make-baseert "C"-Programm
+Name[nl]=Eenvoudige op Make gebaseerd C programma
+Name[pl]=Prosty program w C używający Make
+Name[pt]=Aplicação simples em C com Make
+Name[pt_BR]=Simples Aplicativo C baseado no Make
+Name[ru]=Простое приложение на С++ с Make
+Name[sl]=Preprost program v C, temelječ na Make
+Name[sv]=Enkelt Make-baserat C program
+Name[tr]=Basit Make temelli C uygulaması
+Name[uk]=Проста заснована на Make програма C
+Name[x-test]=xxSimple Make-based C applicationxx
+Name[zh_CN]=基于 Make 的简单 C 应用程序
+Name[zh_TW]=簡單的使用 Make 的 C 應用程式
+Category=C/No GUI
+Icon=default-kdevelop
+ShowFilesAfterGeneration=%{PROJECTDIR}/main.c

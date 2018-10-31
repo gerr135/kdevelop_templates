@@ -1,0 +1,7 @@
+# KDE Config File
+[General]
+Name=Ada base
+Comment=Basic Ada project using gprbuild
+Category=Standard/Terminal
+Icon=default-kdevelop
+ShowFilesAfterGeneration=src/run_%{APPNAMELC}.adb
