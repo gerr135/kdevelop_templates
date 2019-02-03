@@ -1,0 +1,8 @@
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
+# generated executable and objects
+run_%{APPNAME}
