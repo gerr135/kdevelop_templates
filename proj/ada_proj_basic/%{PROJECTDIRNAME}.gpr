@@ -21,4 +21,13 @@ project %{PROJECTDIRNAME} is
         end case;
     end Compiler;
 
+    package Binder is
+        case Mode is
+            when "dbg" =>
+                for Switches ("Ada") use ("-Es");
+            when "release" =>
+                for Switches ("Ada") use ("");
+        end case;
+    end Binder;
+
 end %{PROJECTDIRNAME};
